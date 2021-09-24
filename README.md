@@ -94,7 +94,7 @@
     A very important future aspect of this project can be seen in implementing it on the ground as it will greatly decrease the burden of maintaining the medical data of numerous patients on paper. 
 </li>
 <li>
-    The provision of a unique identity number to every user will ensure that the entire medical history of patients, information about doctors, etc. can be made available in a few clicks. 
+    The provision of a unique identity number to every user will ensure that the entire medical history of patients, information about doctors, etc. can be made available in a few clicks.
 </li>
 
 </ul>
